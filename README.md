@@ -1,6 +1,6 @@
 # 2024 Codewars Coding Challenge
-Ikut tantangan coding 2024 dari Codewars bersama Web Programming UNPAS. <br>
-
+Ikut tantangan coding 2024 dari Codewars bersama Web Programming UNPAS. <br> <br>
+![Codewars](https://github.r2v.ch/codewars?user=iambeno&stroke=%23BB432C)
 
 ### Cara ikutan
 - Daftar dulu disini : <a href="https://www.codewars.com/">www.codewars.com</a>
@@ -10,8 +10,6 @@ Ikut tantangan coding 2024 dari Codewars bersama Web Programming UNPAS. <br>
 ### Leaderboard 
 Bersaing dengan peserta lainnya untuk menaklukkan leaderboard dan menjadi yang teratas!<br>
 ![image](https://github.com/iambeno/2024-Codewars-Coding-Challenge/assets/132084722/be09838b-b57d-426e-81a9-c6806ce42318)
-
-
 
 ### My Solutions
 Saya menggunakan bahasa pemrograma Python dan C++ untuk meyelesaikan setiap tantangan. Berikut ini adalah daftar solusi yang telah saya kerjakan mulai dari level 8 Kyu sampai level-level selanjutnya.

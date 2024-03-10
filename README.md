@@ -1,6 +1,6 @@
 # 2024 Codewars Coding Challenge
-Ikut tantangan coding 2024 dari Codewars bersama Web Programming UNPAS. <br>
-
+Ikut tantangan coding 2024 dari Codewars bersama Web Programming UNPAS. <br> <br>
+![Codewars](https://github.r2v.ch/codewars?user=iambeno&stroke=%23BB432C)
 
 ### Cara ikutan
 - Daftar dulu disini : <a href="https://www.codewars.com/">www.codewars.com</a>
@@ -11,10 +11,8 @@ Ikut tantangan coding 2024 dari Codewars bersama Web Programming UNPAS. <br>
 Bersaing dengan peserta lainnya untuk menaklukkan leaderboard dan menjadi yang teratas!<br>
 ![image](https://github.com/iambeno/2024-Codewars-Coding-Challenge/assets/132084722/be09838b-b57d-426e-81a9-c6806ce42318)
 
-
-
 ### My Solutions
-Saya menggunakan bahasa pemrograma Python dan C++ untuk meyelesaikan setiap tantangan. Berikut ini adalah daftar solusi yang telah saya kerjakan mulai dari level 8 Kyu sampai level-level selanjutnya.
+Saya menggunakan bahasa pemrograman Python dan C++ untuk meyelesaikan setiap tantangan. Berikut ini adalah daftar solusi yang telah saya kerjakan mulai dari level 8 Kyu sampai level-level selanjutnya.
 
 |  **Day-**  |   **Judul** | **Level**  |    **Link Soal**   |  **Bahasa**  |   **My Solution**   |
 |------------|---------|------------|-------------|-----------------|-------------------|
@@ -90,3 +88,6 @@ Saya menggunakan bahasa pemrograma Python dan C++ untuk meyelesaikan setiap tant
 | 70 | Trilingual democracy | 7kyu | <a href="https://www.codewars.com/kata/62f17be8356b63006a9899dc/train/python">link</a> | Python | <a href="https://github.com/iambeno1/2024-Codewars-Coding-Challenge/blob/main/My%20Solutions/070_Trilingual%20democracy.py">Lihat</a>
 | 71 | Naughty Or Nice | 7kyu | <a href="https://www.codewars.com/kata/5662b14e0a1fb8320a00005c/train/python">link</a> | Python | <a href="https://github.com/iambeno1/2024-Codewars-Coding-Challenge/blob/main/My%20Solutions/071_Naughty%20or%20Nice.py">Lihat</a>
 | 72 | Array - squareUp b! | 7kyu | <a href="https://www.codewars.com/kata/5a8bcd980025e99381000099/train/cpp">link</a> | C++ | <a href="https://github.com/iambeno1/2024-Codewars-Coding-Challenge/blob/working/My%20Solutions/072_Array-squareUp_b.cpp">Lihat</a>
+| 73 | Valid Spacing | 7kyu | <a href="https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/train/python">link</a> | Python | <a href="https://github.com/iambeno1/2024-Codewars-Coding-Challenge/blob/working/My%20Solutions/073_Valid%20Spacing.py">Lihat</a>
+| 74 | Stones on the Table | 7kyu | <a href="https://www.codewars.com/kata/5f70e4cce10f9e0001c8995a/train/python">link</a> | Python | <a href="https://github.com/iambeno1/2024-Codewars-Coding-Challenge/blob/working/My%20Solutions/074_Stones%20on%20the%20Table.py">Lihat</a>
+| 75 | Arrays of cats and dogs | 6kyu | <a href="https://www.codewars.com/kata/5a5f48f2880385daac00006c/train/python">link</a> | Python | <a href="https://github.com/iambeno1/2024-Codewars-Coding-Challenge/blob/working/My%20Solutions/075_Arrays%20of%20cats%20and%20dogs.py">Lihat</a>

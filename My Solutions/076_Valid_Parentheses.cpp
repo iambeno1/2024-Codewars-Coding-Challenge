@@ -32,28 +32,6 @@ bool validParentheses(const std::string& str) {
 
 https://www.codewars.com/kata/6411b91a5e71b915d237332d/train/cpp
 
-#include <stack>
-#include <string>
-
-bool validParentheses(const std::string& str) {
-    std::stack<char> parenStack;
-    
-    for (char c : str) {
-        if (c == '(') {
-            parenStack.push(c);
-        } else if (c == ')') {
-            if (parenStack.empty()) {
-                return false; // Kurung tutup tanpa pasangan
-            } else {
-                parenStack.pop(); // Pop kurung buka teratas
-            }
-        }
-    }
-    
-    return parenStack.empty(); // Return true jika semua kurung buka memiliki pasangan
-}
-
-
 */
 
 // My Solutions

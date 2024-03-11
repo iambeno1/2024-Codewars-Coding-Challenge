@@ -12,7 +12,7 @@ Bersaing dengan peserta lainnya untuk menaklukkan leaderboard dan menjadi yang t
 ![image](https://github.com/iambeno/2024-Codewars-Coding-Challenge/assets/132084722/be09838b-b57d-426e-81a9-c6806ce42318)
 
 ### My Solutions
-Saya menggunakan bahasa pemrograman Python dan C++ untuk meyelesaikan setiap tantangan. Berikut ini adalah daftar solusi yang telah saya kerjakan mulai dari level 8 Kyu sampai level-level selanjutnya.
+Saya menggunakan bahasa pemrograman Python, C++ dan sedikit Java untuk meyelesaikan setiap tantangan. Berikut ini adalah daftar solusi yang telah saya kerjakan mulai dari level 8 Kyu sampai level-level selanjutnya.
 
 |  **Day-**  |   **Judul** | **Level**  |    **Link Soal**   |  **Bahasa**  |   **My Solution**   |
 |------------|---------|------------|-------------|-----------------|-------------------|

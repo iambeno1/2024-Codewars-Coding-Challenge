@@ -5,7 +5,7 @@ Ikut tantangan coding 2024 dari Codewars bersama Web Programming UNPAS. <br> <br
 ### Cara ikutan
 - Daftar dulu disini : <a href="https://www.codewars.com/">www.codewars.com</a>
 - Setelah selesai daftar, masuk ke bagian account settings masukkan nama clan <code> Web Programming UNPAS </code> ke clan kamu
-- dan mulailah bersaing dengan peserta lain, ikuti tantangan ini sepanjang tahun 2024 (365/366)
+- dan mulailah bersaing dengan peserta lain
 
 ### Leaderboard 
 Bersaing dengan peserta lainnya untuk menaklukkan leaderboard dan menjadi yang teratas!<br>
